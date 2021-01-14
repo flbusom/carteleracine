@@ -1,6 +1,6 @@
 # Cartelera Cine Domotic Quality
 
-## Calculadora
+## Cartelera Cine
   _Hecha a partir de código basado en HTML, CSS y JavaScript._
 
 ## Comenzando 🚀
