@@ -1,7 +1,7 @@
 # Cartelera Cine Domotic Quality
 
 ## Cartelera Cine
-  _Hecha a partir de código basado en HTML, CSS y JavaScript._
+  _Hecha a partir de código basado en HTML, CSS, JavaScript y JSON._
 
 ## Comenzando 🚀
 
